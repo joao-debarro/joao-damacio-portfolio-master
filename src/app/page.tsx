@@ -13,7 +13,7 @@ const Home: React.FC = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 text-gray-800">
       <header className="text-center">
         <Image
-          src="/joao.webp"
+          src="joao.webp"
           width={150}
           height={150}
           alt="João Pedro Damacio"
