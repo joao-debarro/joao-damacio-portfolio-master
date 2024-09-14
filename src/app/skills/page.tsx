@@ -6,6 +6,7 @@ import Link from "next/link";
 const SkillsPage: React.FC = () => {
   const [isClient, setIsClient] = useState(false);
 
+  // testes
   useEffect(() => {
     setIsClient(true);
   }, []);
